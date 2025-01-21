@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning Java, Python 
-- 😄 Pronouns: Stu/pid
+- 😄 Pronouns: stu/pid
 - ⚡ Fun fact: I dont think fun facts are funny. 
